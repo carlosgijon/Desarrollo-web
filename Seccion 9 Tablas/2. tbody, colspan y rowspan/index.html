@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Explorando HTML5">
+    <title>Mi primera página html5</title>
+</head>
+
+<body>
+    <div class="contenedor">
+        <header role="banner">
+            <div class="logo">
+                <img src="img/logo.png" alt="logo empresa">
+            </div>
+            <nav class="navegacion" role="navigation">
+                <ul>
+                    <li><a href="nosotros.html">Sobre nosotros</a></li>
+                    <li><a href="#">Cursos</a></li>
+                    <li><a href="http://www.google.com" target="_blank">Ir a Google</a></li>
+                    <li><a href="#noticias">Ir a noticias</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main class="contenido-principal" role="main">
+
+            <section>
+
+                <h2>Nuestros cursos</h2>
+                <div>
+                    <h3>HTML5</h3>
+                    <img src="img/html5.png" alt="html" height="200">
+                    <a href="programa-html5.pdf" download>Descargar programa</a>
+
+                    <p>Ventajas de este curso</p>
+                    <ul>
+                        <li>Lo puedes hacer en linea.
+                            <ul>
+                                <li>Lo puedes hacer en linea en Udemy</li>
+                                <li>A cualquier hora del dia</li>
+                            </ul>
+                        </li>
+                        <li>Avanzar a tu ritmo</li>
+                        <li>Puedes preguntar tus dudas al instructor</li>
+                    </ul>
+                    <p>Temario del curso</p>
+                    <ol>
+                        <li>Básico de HTML</li>
+                        <li>Etiquetas de HTML
+                            <ul>
+                                <li>Elementos semánticos</li>
+                                <li>Header</li>
+                            </ul>
+                        </li>
+                        <li>Crear enlaces</li>
+                        <li>Crear listas</li>
+                    </ol>
+
+                </div>
+                <div>
+                    <h3>CSS3</h3>
+                    <img src="img/css3.png" alt="html" height="200">
+                </div>
+                <div>
+                    <h3>Javascript</h3>
+                    <img src="img/js.jpg" alt="html" height="200">
+                </div>
+
+            </section>
+
+            <section id="noticias">
+
+                <h2>Últimas noticias</h2>
+                <article role="article">
+                    <h3>Aprender a programar en el siglo XXI</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, neque temporibus. Libero, blanditiis dolorum, dignissimos aliquid quisquam sequi officiis repudiandae placeat vitae alias, a aperiam aut beatae molestiae repellat asperiores!</p>
+                </article>
+                <article role="article">
+                    <h3>Aprender a programar en el siglo XXI</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, neque temporibus. Libero, blanditiis dolorum, dignissimos aliquid quisquam sequi officiis repudiandae placeat vitae alias, a aperiam aut beatae molestiae repellat asperiores!</p>
+                </article>
+                <article role="article">
+                    <h3>Aprender a programar en el siglo XXI</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, neque temporibus. Libero, blanditiis dolorum, dignissimos aliquid quisquam sequi officiis repudiandae placeat vitae alias, a aperiam aut beatae molestiae repellat asperiores!</p>
+                </article>
+
+            </section>
+
+        </main>
+        <!--.contenido-->
+
+        <aside role="complementary">
+
+
+            <table width="300">
+                <caption>
+                    <h2>Proximos cursos</h2>
+                </caption>
+                <thead>
+                    <tr>
+                        <th>Curso</th>
+                        <th>Precio</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td rowspan="3">PHP</td>
+                        <td>99 €</td>
+                    </tr>
+                    <tr>
+                        <td>99 € (sabados)</td>
+                    </tr>
+                    <tr>
+                        <td>99 € (domingos)</td>
+                    </tr>
+                    <tr>
+                        <td>MySQL</td>
+                        <td>99 €</td>
+                    </tr>
+                    <tr>
+                        <td>Javascript</td>
+                        <td>99 €</td>
+                    </tr>
+                    <tr>
+                        <td>Python</td>
+                        <td>99 €</td>
+                    </tr>
+                </tbody>
+
+                <tfoot>
+                    <tr>
+                        <td colspan="2">No te los puedes perder!</td>
+                    </tr>
+                </tfoot>
+
+
+            </table>
+
+        </aside>
+
+    </div>
+    <!--.contenedor-->
+
+    <footer role="contentinfo">
+
+        <div class="nosotros">
+            <h3>Sobre nuestra escuela</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut ullam corporis nam quidem animi nisi eius exercitationem consectetur labore quo. Veniam ducimus labore corporis dignissimos pariatur hic dolor quaerat ea.</p>
+        </div>
+        <div class="menu">
+            <nav class="navegacion" role="navigation">
+                menu aqui
+            </nav>
+        </div>
+        <!--menu-->
+        <p>Cursos de diseño web &dash; todos los derechos reservados &copy;</p>
+
+    </footer>
+</body>
+
+
+</html>
