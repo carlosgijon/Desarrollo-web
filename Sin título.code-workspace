@@ -1,14 +1,17 @@
 {
-	"folders": [
-		{
-			"path": "/Users/carlos/Desktop/Curso angular"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"beautify.onSave": true,
-		"editor.formatOnSave": true
-	}
+  "folders": [
+    {
+      "path": "/Users/carlos/Desktop/Curso angular"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "/Users/carlos/PhpstormProjects"
+    }
+  ],
+  "settings": {
+    "beautify.onSave": true,
+    "editor.formatOnSave": true
+  }
 }

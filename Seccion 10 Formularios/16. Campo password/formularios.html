@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Formularios y campos</title>
+</head>
+
+<body>
+
+    <h2>Creando formularios</h2>
+
+    <form class="formulario">
+
+        <fieldset>
+            <legend>Tus datos</legend>
+
+            <label for="nombre">Nombre:</label>
+            <input type="text" name="nombre" id="nombre" placeholder="Tu nombre" autocomplete="off">
+
+            <br><br>
+
+            <label for="nombre">Apellido:</label>
+            <input type="text" name="apellido" id="apellido" placeholder="Tu apellido" autocomplete="off">
+
+            <br><br>
+
+            <label for="sexo">Sexo:</label>
+
+            <br>
+
+            <input type="radio" id="sexo" name="sexo" value="hombre" checked autofocus>hombre <br>
+            <input type="radio" id="sexo" name="sexo" value="mujer">mujer <br>
+            <input type="radio" id="sexo" name="sexo" value="otro">otro <br>
+
+            <br>
+            <label for="fecha_nacimiento">Fecha de nacimiento:</label>
+            <input type="date">
+
+            <br><br>
+            <label for="correo_electronico">Correo electronico</label>
+            <input type="email" name="correo_electronico" placeholder="Tu correo">
+
+            <br><br>
+            <label for="tu_sitio">Tu sitio web</label>
+            <input type="url" name="tu_sitio" placeholder="Tu web">
+
+            <br><br>
+            <label for="puntuación">¿Cuanto sabes de HTML?</label>
+            <input type="range" name="puntuación" min="0" max="10">
+
+            <br><br>
+            <label for="num_personas">¿Cuantas personas vienen contigo?</label>
+            <input type="number" name="puntuación" min="0" max="5">
+
+        </fieldset>
+
+        <br><br>
+
+        <fieldset>
+            <legend>Información sobre tu curso</legend>
+
+            <label for="turno">Turno:</label>
+            <select id="turno" class="turno" name="turno">
+                <option value="mañanas">Mañanas</option>
+                <option value="tardes" selected>Tardes</option>
+                <option value="noches">Noches</option>
+            </select>
+
+            <br><br>
+
+            <label>¿Que curso te gustaria que agregaramos?</label>
+            <input list="propuesta" name="encuesta">
+            <datalist id="propuesta">
+                <option value="jQuery">
+                <option value="Aplicaciones web">
+                <option value="AngularJs">
+                <option value="Bootstrap">
+            </datalist>
+
+            <br><br>
+
+            <label for="">Elige tus cursos</label>
+            <br>
+            <input type="checkbox" value="php">PHP
+            <br>
+            <input type="checkbox" value="html5">HTML5
+            <br>
+            <input type="checkbox" value="css">CSS
+            <br>
+            <input type="checkbox" value="mysql">MySQL
+            <br>
+            <input type="checkbox" value="javascript">JavaScript
+            <br>
+            <input type="checkbox" value="jquery">jQuery
+            <br><br>
+
+            <label for="mes_comienzo">Mes de comienzo:</label>
+            <input type="month">
+
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+            <legend>Extra</legend>
+
+            <label for="color_camiseta">Las primeras diez personas recibirán una camiseta gratis, elige el color</label>
+            <input type="color" name="color_camiseta">
+
+        </fieldset>
+
+        <fieldset>
+            <legend>Usuario y password</legend>
+            <label for="usuario">Usuario</label><br>
+            <input type="text" name="usuario" placeholder="Tu usuario"><br>
+            <label for="password">Password</label><br>
+            <input type="password" name="password" placeholder="Password"><br>
+        </fieldset>
+
+        <br>
+
+        <button type="reset">Borrar</button>
+        <input type="submit" value="Enviar">
+
+    </form>
+
+</body>
+
+</html>

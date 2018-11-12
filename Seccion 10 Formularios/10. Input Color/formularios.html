@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Formularios y campos</title>
+</head>
+
+<body>
+
+    <h2>Creando formularios</h2>
+
+    <form class="formulario">
+
+        <fieldset>
+            <legend>Tus datos</legend>
+
+            <label for="nombre">Nombre:</label>
+            <input type="text" name="nombre" id="nombre" placeholder="Tu nombre" autocomplete="off">
+
+            <br><br>
+
+            <label for="nombre">Apellido:</label>
+            <input type="text" name="apellido" id="apellido" placeholder="Tu apellido" autocomplete="off">
+
+            <br><br>
+
+            <label for="sexo">Sexo:</label>
+
+            <br>
+
+            <input type="radio" id="sexo" name="sexo" value="hombre" checked autofocus>hombre <br>
+            <input type="radio" id="sexo" name="sexo" value="mujer">mujer <br>
+            <input type="radio" id="sexo" name="sexo" value="otro">otro <br>
+
+        </fieldset>
+
+        <br><br>
+
+        <fieldset>
+            <legend>Información sobre tu curso</legend>
+
+            <label for="turno">Turno:</label>
+            <select id="turno" class="turno" name="turno">
+                <option value="mañanas">Mañanas</option>
+                <option value="tardes" selected>Tardes</option>
+                <option value="noches">Noches</option>
+            </select>
+
+            <br><br>
+
+            <label>¿Que curso te gustaria que agregaramos?</label>
+            <input list="propuesta" name="encuesta">
+            <datalist id="propuesta">
+                <option value="jQuery">
+                <option value="Aplicaciones web">
+                <option value="AngularJs">
+                <option value="Bootstrap">
+            </datalist>
+
+            <br><br>
+
+            <label for="">Elige tus cursos</label>
+            <br>
+            <input type="checkbox" value="php">PHP
+            <br>
+            <input type="checkbox" value="html5">HTML5
+            <br>
+            <input type="checkbox" value="css">CSS
+            <br>
+            <input type="checkbox" value="mysql">MySQL
+            <br>
+            <input type="checkbox" value="javascript">JavaScript
+            <br>
+            <input type="checkbox" value="jquery">jQuery
+            <br>
+
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+
+            <legend>Extra</legend>
+
+            <label for="color_camiseta">Las primeras diez personas recibirán una camiseta gratis, elige el color</label>
+            <input type="color" name="color_camiseta">
+
+        </fieldset>
+
+        <br>
+
+        <button type="reset">Borrar</button>
+        <input type="submit" value="Enviar">
+
+    </form>
+
+</body>
+
+</html>
