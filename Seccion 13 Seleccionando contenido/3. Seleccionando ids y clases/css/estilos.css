@@ -1,0 +1,27 @@
+#titulo {
+    color: red;
+}
+
+#logo {
+    /* margin-top: 200px; */
+}
+
+.rojo {
+    color: red;
+}
+
+.logo {
+    margin-top: 200px;
+}
+
+
+/* SELECTORES CON CLASE E ID*/
+
+#titulo.titulo {
+    font-size: 60px;
+    /* Al ser mas especifico el siguiente selector no funcionará */
+}
+
+.titulo {
+    font-size: 30px;
+}

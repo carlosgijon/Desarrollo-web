@@ -1,0 +1,100 @@
+#titulo {
+    color: red;
+}
+
+#logo {
+    /* margin-top: 200px; */
+}
+
+.rojo {
+    color: blue;
+}
+
+.logo {
+    margin-top: 200px;
+}
+
+
+/* SELECTORES CON CLASE E ID*/
+
+#titulo.titulo {
+    /* que contenga id titulo y clase titulo*/
+    font-size: 60px;
+}
+
+.titulo {
+    font-size: 30px;
+}
+
+
+/* SELECTORES CON DOS CLASES*/
+
+.azul.tituloCurso {
+    /* que contenga clase azul y tituloCurso*/
+    color: blue;
+}
+
+.tituloCurso.azul {
+    color: red;
+}
+
+
+/* SELECTORES CON ELEMENTOS HTML */
+
+p {
+    color: brown;
+}
+
+h2 {
+    color: orange;
+}
+
+h3 {
+    color: green;
+}
+
+img {
+    width: 300px;
+}
+
+
+/* SELECTORES CON ELEMENTOS HTML E IDs*/
+
+img#logo {
+    /* Que sea una imagen (img) y tenga el id logo */
+    width: 600px;
+}
+
+h2#titulo {
+    color: orange;
+}
+
+
+/* SELECTORES CON ELEMENTOS HTML Y CLASES */
+
+section.seccion {
+    /* selecciona un section con la clase seccion */
+    background: gray;
+}
+
+div.noticia {
+    background: white;
+}
+
+
+/* SELECTOR UNIVERSAL */
+
+
+/* * {
+    color: red!important;
+    font-size: 20px!important;
+} */
+
+#listado-cursos * {
+    /* Selecciona todos los elementos que estén dentro del id listado-cursos */
+    font-size: 30px;
+}
+
+.noticia * {
+    font-size: 20px;
+}

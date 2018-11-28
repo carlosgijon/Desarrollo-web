@@ -1,0 +1,56 @@
+#titulo {
+    color: red;
+}
+
+#logo {
+    /* margin-top: 200px; */
+}
+
+.rojo {
+    color: blue;
+}
+
+.logo {
+    margin-top: 200px;
+}
+
+
+/* SELECTORES CON CLASE E ID*/
+
+#titulo.titulo {
+    font-size: 60px;
+}
+
+.titulo {
+    font-size: 30px;
+}
+
+
+/* SELECTORES CON DOS CLASES*/
+
+.azul.tituloCurso {
+    color: blue;
+}
+
+.tituloCurso.azul {
+    color: red;
+}
+
+
+/* SELECTORES CON ELEMENTOS HTML */
+
+p {
+    color: brown;
+}
+
+h2 {
+    color: orange;
+}
+
+h3 {
+    color: green;
+}
+
+img {
+    width: 300px;
+}
