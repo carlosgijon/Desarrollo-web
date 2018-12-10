@@ -1,0 +1,29 @@
+/* FONT FAMILY */
+body {
+    font-family: Arial, Helvetica, Serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 30px;
+
+/*    !* rem es relativo a lo grande que sea el documento*!
+    font-size: 3rem;
+
+    !* em es una medida absoluta en todos los dispositivos*!
+    font-size: 4em;*/
+}
+
+h3 {
+    font-family: "Times New Roman", Serif;
+    font-size: 22px;
+}
+
+p {
+    font-family: Geneva, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+a {
+  font-size: 14px;
+}

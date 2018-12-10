@@ -1,0 +1,26 @@
+/* FONT FAMILY */
+@font-face {
+    font-family: 'acknowledgementmedium';
+    src: url('acknowledgement.woff2') format('woff2'),
+    url('acknowledgement.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body {
+    font-family: Arial, Helvetica, Serif;
+}
+
+h2 {
+    font-family: acknowledgementmedium, Geneva, sans-serif;
+}
+
+h3 {
+    font-family: "Times New Roman", Serif;
+}
+
+p {
+    font-family: Geneva, Helvetica, sans-serif;
+}

@@ -23,6 +23,7 @@ resultado = numero1 / numero5;
 resultado = numero1 + numero2;
 
 // Clase MATH
+
 // redondear 
 resultado = Math.round(2.4);
 
