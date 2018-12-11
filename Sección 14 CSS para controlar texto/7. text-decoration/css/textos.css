@@ -13,20 +13,25 @@ h2 {
     !* em es una medida absoluta en todos los dispositivos*!
     font-size: 4em;*/
     font-style: italic;
+    text-transform: uppercase;
 }
 
 h3 {
     font-family: "Times New Roman", Serif;
     font-size: 22px;
+    font-variant: small-caps;
 }
 
 p {
     font-family: Geneva, Helvetica, sans-serif;
     font-size: 18px;
+    text-transform: capitalize;
 }
 
 a {
-  font-size: 14px;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
 }
 
 #listado-cursos li em {
@@ -35,4 +40,17 @@ a {
 
 section#introduccion p span {
     font-style: italic;
+}
+
+#listado-cursos li {
+    text-transform: lowercase;
+}
+
+section#introduccion p span {
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+
+p.oferta span {
+    text-decoration: line-through;
 }

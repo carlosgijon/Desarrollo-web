@@ -5,7 +5,7 @@ let recorrer_meses = function() {
 
         txt_mensaje.insertAdjacentHTML('beforeend', '<li>'+meses[i]+'</li>');
     }
-}
+};
 
 // Creando un Array con corchetes
 
