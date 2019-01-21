@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47068b7e-f55c-4859-8206-092b75430d63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/13. Template Strings/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/13. Template Strings/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Objetos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/12. Objetos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Objetos/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/12. Objetos/js/scripts.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="809">
+              <caret line="59" column="47" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/js/scripts.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/7. Números/js/scripts.js" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/8. Convirtiendo de String a numero/index.html" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/8. Convirtiendo de String a numero/js/scripts.js" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Arrays/js/scripts.js" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Arrays/js/prueba.js" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Arrays/index.html" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Objetos/js/scripts.js" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/12. Template Strings/index.html" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/12. Template Strings/js/scripts.js" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/13. Template Strings/js/scripts.js" />
+        <option value="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/js/scripts.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2048" />
+    <option name="height" value="1091" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Seccion 29 Básicos de JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Seccion 29 Básicos de JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="1. Nuestro primer programa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Seccion 29 Básicos de JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="14. Funciones" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Seccion 29 Básicos de JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="14. Funciones" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" restartOnDisconnect="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/JavaScript/Seccion 29 Básicos de JavaScript/14. Funciones/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost/Seccion 29 Básicos de JavaScript/14. Funciones/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/JavaScript/Seccion 29 Básicos de JavaScript/11. Objetos/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="scripts.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/js/scripts.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Node.js.scripts.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47068b7e-f55c-4859-8206-092b75430d63" name="Default Changelist" comment="" />
+      <created>1543833831790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543833831790</updated>
+      <workItem from="1543833834385" duration="217000" />
+      <workItem from="1543834082738" duration="53000" />
+      <workItem from="1543939075315" duration="721000" />
+      <workItem from="1543939906655" duration="2746000" />
+      <workItem from="1543943494337" duration="101000" />
+      <workItem from="1543959115832" duration="159000" />
+      <workItem from="1543960890369" duration="2771000" />
+      <workItem from="1543963674586" duration="162000" />
+      <workItem from="1543963883697" duration="454000" />
+      <workItem from="1544554879863" duration="2399000" />
+      <workItem from="1544716045873" duration="2765000" />
+      <workItem from="1544727233381" duration="3846000" />
+      <workItem from="1545148527768" duration="327000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ejercicios y ejemplos dia 11/12">
+      <created>1544564800594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544564800594</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16721000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2048" height="1091" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984375" visible="true" weight="0.13320178" />
+      <window_info id="Structure" order="1" sideWeight="0.5015625" side_tool="true" weight="0.13320178" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23499492" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicios y ejemplos dia 11/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios y ejemplos dia 11/12" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/7. Números/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="546" column="10" selection-start-line="546" selection-start-column="10" selection-end-line="546" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/7. Números/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/6. Funciones para String/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/5. Variables String/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/8. Convirtiendo de String a numero/index.html" />
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/8. Convirtiendo de String a numero/js/scripts.js" />
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Arrays/js/prueba.js" />
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Arrays/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/11. Arrays/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/12. Objetos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/12. Objetos/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/13. Template Strings/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/13. Template Strings/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="59" column="47" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 29 Básicos de JavaScript/14. Funciones/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

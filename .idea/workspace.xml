@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a77bd5b2-ff81-4de4-bdc9-906da23c4e68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/css/textos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/img/css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/img/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/img/js.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/css/textos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/img/css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/img/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/img/js.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/css/textos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/img/css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/img/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/img/js.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/css/textos.css" beforeDir="false" afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/css/textos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="413">
+                  <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/css/textos.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="658">
+                  <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>span</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Sección 13 CSS para controlar texto/1. Introduccion al capitulo/css/textos.css" />
+        <option value="$PROJECT_DIR$/Sección 13 CSS para controlar texto/1. Introduccion al capitulo/index.html" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/1. Introduccion al capitulo/index.html" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/2. Font-face/css/textos.css" />
+        <option value="$USER_HOME$/Downloads/webfontkit-20181205-044511/stylesheet.css" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/3. font-face/css/textos.css" />
+        <option value="$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/8. Convirtiendo de Numero a String/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/8. Convirtiendo de Numero a String/js/scripts.js" />
+        <option value="$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/10. Tipos de datos JavaScript/js/scripts.js" />
+        <option value="$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/10. Tipos de datos JavaScript/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/11. Arrays/index.html" />
+        <option value="$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/11. Arrays/js/scripts.js" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/index.html" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/css/textos.css" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/css/textos.css" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/index.html" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/css/textos.css" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/index.html" />
+        <option value="$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/css/textos.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2048" />
+    <option name="height" value="1152" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Desarrollo web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Desarrollo web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Desarrollo web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Desarrollo web" type="462c0819:PsiDirectoryNode" />
+              <item name="Sección 14 CSS para controlar texto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Desarrollo web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Desarrollo web" type="462c0819:PsiDirectoryNode" />
+              <item name="Sección 14 CSS para controlar texto" type="462c0819:PsiDirectoryNode" />
+              <item name="7. text-decoration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Desarrollo web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Desarrollo web" type="462c0819:PsiDirectoryNode" />
+              <item name="Sección 14 CSS para controlar texto" type="462c0819:PsiDirectoryNode" />
+              <item name="7. text-decoration" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sección 14 CSS para controlar texto" />
+      <recent name="$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript" />
+      <recent name="$PROJECT_DIR$/Sección 13 CSS para controlar texto/1. Introduccion al capitulo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Desarrollo web/Sección 14 CSS para controlar texto/4. font-size/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Desarrollo web/Sección 14 CSS para controlar texto/5. text-transform/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Desarrollo web/Sección 14 CSS para controlar texto/6. font-variant/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Desarrollo web/Sección 14 CSS para controlar texto/7. text-decoration/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Desarrollo web/JavaScript/Seccion 29 Básicos de JavaScript/11. Arrays/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a77bd5b2-ff81-4de4-bdc9-906da23c4e68" name="Default Changelist" comment="" />
+      <created>1544001024838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544001024838</updated>
+      <workItem from="1544001028600" duration="3625000" />
+      <workItem from="1544433410834" duration="6191000" />
+      <workItem from="1544467550173" duration="59000" />
+      <workItem from="1544469579624" duration="3096000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ejercicios y ejemplos JavaScript">
+      <created>1544441923838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544441923838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12971000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14750864" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39962476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24962999" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39979655" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicios y ejemplos JavaScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios y ejemplos JavaScript" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sección 12 CSS: hojas de estilo en cascada/7. Normalize/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="126" column="7" lean-forward="true" selection-end-line="126" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/1. Introduccion al capitulo/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/1. Introduccion al capitulo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/1. Introduccion al capitulo/css/textos.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/2. Font-family/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/2. Font-family/css/textos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/webfontkit-20181205-044511/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/3. font-face/css/textos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/3. font-face/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/8. Convirtiendo de Numero a String/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/8. Convirtiendo de Numero a String/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/10. Tipos de datos JavaScript/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/10. Tipos de datos JavaScript/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seccion 9 Tablas/2. tbody, colspan y rowspan/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/11. Arrays/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="72" column="114" selection-start-line="72" selection-start-column="114" selection-end-line="72" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Seccion 29 Básicos de JavaScript/11. Arrays/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/3. font-face/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/4. font-size/css/textos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/5. text-transform/css/textos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/css/textos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/6. font-variant/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sección 14 CSS para controlar texto/7. text-decoration/css/textos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
